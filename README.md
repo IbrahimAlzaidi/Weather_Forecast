@@ -23,8 +23,6 @@ Simple Android App demonistrate Jetpack compose using external api and Room Data
 <img src="https://user-images.githubusercontent.com/20369348/164984072-60cde5f8-9fb7-4fb4-8ce9-f99fe5619207.png" width="450" height="700" />
 
 
-1. Splash Screen                   2. Main Screen
-<img src="https://user-images.githubusercontent.com/20369348/164984071-4c9de8a6-7d54-4bda-a09e-4a3a1ce3d88e.png" width="450" height="700" /> <img src="https://user-images.githubusercontent.com/20369348/164984063-b93191b8-50d0-4be5-bf9a-7288a58ceb36.png" width="450" height="700" />
 
 
 
