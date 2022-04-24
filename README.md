@@ -4,7 +4,7 @@ Simple Android App demonistrate Jetpack compose using external api and Room Data
 
 [Api Link](https://www.weatherapi.com)
 
-<img src="https://user-images.githubusercontent.com/20369348/164984063-b93191b8-50d0-4be5-bf9a-7288a58ceb36.png" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/20369348/164984063-b93191b8-50d0-4be5-bf9a-7288a58ceb36.png" width="450" height="700" />
 
 ![Screenshot_20220424_171409](https://user-images.githubusercontent.com/20369348/164984063-b93191b8-50d0-4be5-bf9a-7288a58ceb36.png =100x200)
 ![Screenshot_20220424_171501](https://user-images.githubusercontent.com/20369348/164984067-b0df6129-751c-497a-a80a-f8107781c44d.png)
