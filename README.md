@@ -21,3 +21,29 @@ Simple Android App demonistrate Jetpack compose using external api and Room Data
 
 6. Setting Screen
 <img src="https://user-images.githubusercontent.com/20369348/164984072-60cde5f8-9fb7-4fb4-8ce9-f99fe5619207.png" width="450" height="700" />
+
+
+<!doctype html>
+<title>Example</title>
+<style>
+.grid { 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  align-items: stretch;
+  justify-items: center;
+  }
+.grid img {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  max-width: 100%;
+}
+</style>
+<main class="grid">
+  <img src="https://user-images.githubusercontent.com/20369348/164984071-4c9de8a6-7d54-4bda-a09e-4a3a1ce3d88e.png" alt="Sample photo">
+  <img src="/pix/samples/24m.jpg" alt="Sample photo">
+  <img src="/pix/samples/22l.jpg" alt="Sample photo">
+  <img src="/pix/samples/15l.jpg" alt="Sample photo">
+  <img src="/pix/samples/25m.jpg" alt="Sample photo">
+  <img src="/pix/samples/16l.jpg" alt="Sample photo">
+</main>
